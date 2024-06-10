@@ -40,12 +40,6 @@ Make sure you have Python installed on your system. This project uses the `tkint
     cd your-repo-name
     ```
 
-3. Install the required packages (if any):
-
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ### Running the Application
 
 Run the Python script to start the application:
