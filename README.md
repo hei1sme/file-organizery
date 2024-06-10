@@ -1,4 +1,4 @@
-# File Organizer with UI
+# File Organizery
 
 This project is a simple file organizer with a graphical user interface (GUI) built using Python's `tkinter` library. It helps to organize files in a directory by categorizing them into predefined categories based on their file extensions.
 
