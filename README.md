@@ -77,10 +77,6 @@ file_types = {
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgements
 
 - This project uses the `tkinter` library for the GUI.
