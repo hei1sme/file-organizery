@@ -5,13 +5,14 @@ from tkinter import filedialog, messagebox
 
 # Define file types 
 file_types = {
-    'Images': ['.jpg', '.jpeg', '.png', '.gif', '.dng'],
+    'Images': ['.jpg', '.jpeg', '.png', '.gif', '.dng', '.webp'],
     'Videos': ['.mov', '.mp4', '.avi', '.mkv', '.wmv'],
     'Music': ['.mp3', '.wav', '.aac'],
     'Archives': ['.rar', '.zip', '.7z', '.zipx'],
     'Setup': ['.exe', '.msi'],
     'Documents': {
         'Word': ['.docx'],
+        'Excel': ['.xlsx'],
         'Powerpoint': ['.pptx'],
         'PDF': ['.pdf'],
     }
