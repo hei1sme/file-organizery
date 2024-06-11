@@ -60,14 +60,15 @@ You can customize the file categories and extensions by modifying the `file_type
 
 ```python
 file_types = {
-    'Images': ['.jpg', '.jpeg', '.png', '.gif', '.dng'],
+    'Images': ['.jpg', '.jpeg', '.png', '.gif', '.dng', '.webp'],
     'Videos': ['.mov', '.mp4', '.avi', '.mkv', '.wmv'],
     'Music': ['.mp3', '.wav', '.aac'],
     'Archives': ['.rar', '.zip', '.7z', '.zipx'],
     'Setup': ['.exe', '.msi'],
     'Documents': {
         'Word': ['.docx'],
-        'PowerPoint': ['.pptx'],
+        'Excel': ['.xlsx'],
+        'Powerpoint': ['.pptx'],
         'PDF': ['.pdf'],
     }
 }
