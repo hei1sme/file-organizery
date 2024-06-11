@@ -11,6 +11,7 @@ file_types = {
     'Setup': ['.exe', '.msi'],
     'Documents': {
         'Word': ['.docx'],
+        'Excel': ['.xlsx'],
         'Powerpoint': ['.pptx'],
         'PDF': ['.pdf'],
     }
