@@ -31,13 +31,13 @@ Make sure you have Python installed on your system. This project uses the `tkint
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/hei1sme/file-organizery.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd your-repo-name
+    cd file-organizery
     ```
 
 ### Running the Application
